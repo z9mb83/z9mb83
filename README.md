@@ -32,10 +32,10 @@ I'm a developer who likes turning ideas into small, polished tools. I build in J
 <summary><b>🎧 &nbsp;What I'm building</b></summary>
 <br/>
 
-- **music-bay**: a unified music dashboard that connects Spotify, YouTube and JioSaavn, with AI-organized playlists
-- **beat-pro**: a browser app that turns lyrics into a beat foundation, with a step sequencer and LMMS/MIDI export
-- **2048**: my take on the classic puzzle, in TypeScript
-- **unlikeall**: a Python utility to clean up likes in bulk
+- **task-tracker**: a ticketing system for a small team on Google Sheets and Apps Script, with timed tickets, attendance and a Vercel dashboard
+- **unified-communication-automation**: cold email and WhatsApp outreach across five brands from one Google Sheet, with AI-drafted emails and a Next.js dashboard
+- **OCR**: Apps Script tooling that reads phone numbers from ad images and sends compliant bulk SMS
+- Smaller experiments: music-bay, beat-pro, 2048
 
 </details>
 
@@ -46,7 +46,7 @@ I'm a developer who likes turning ideas into small, polished tools. I build in J
 | | |
 |:--|:--|
 | **Languages** | JavaScript, TypeScript, Python |
-| **Style** | Ship small, iterate fast, keep the UI clean |
+| **Style** | Automate the boring parts, ship small, keep the UI clean |
 | **Love** | Dark themes, keyboard shortcuts, tiny details |
 | **Always learning** | New frameworks, audio on the web, AI-assisted tooling |
 
@@ -56,7 +56,7 @@ I'm a developer who likes turning ideas into small, polished tools. I build in J
 <summary><b>🎯 &nbsp;Currently</b></summary>
 <br/>
 
-- 🔭 Polishing my projects and getting them live on Vercel
+- 🔭 Building automation and dashboards on Google Sheets, Apps Script and Vercel
 - 🌱 Exploring web audio and AI-powered features
 - 💬 Ask me about JavaScript, TypeScript or Python
 
@@ -89,24 +89,67 @@ I'm a developer who likes turning ideas into small, polished tools. I build in J
 
 </div>
 
-## 🚀 Featured projects
+## 🚀 Main projects
 
-<!--
-  VERCEL LINKS: replace each REPLACE-... URL below with the real deployment URL
-  from your Vercel dashboard (Project > Domains). Delete the badge if a project
-  isn't deployed.
--->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎫 task-tracker
+Ticketing for a small team, built on **Google Sheets + Apps Script** with a **Vercel** dashboard.
+
+- ⏱ Timed tickets (30/45/60 min) with live countdowns
+- 👥 Admin, task manager and employee dashboards
+- ✅ Approval workflow by email, with recurring tasks
+- 📍 Attendance with selfie and location check-in, plus CSV reports
+
+`Apps Script` `Google Sheets` `Vercel` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/repo-0d1117?style=for-the-badge&logo=github)](https://github.com/z9mb83/task-tracker) [![Live](https://img.shields.io/badge/live_dashboard-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://task-tracker-five-taupe.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 📨 unified-communication-automation
+Cold email and WhatsApp outreach for **five brands** from one shared sheet.
+
+- 🤖 AI-drafted emails sent through Gmail, with per-mailbox limits
+- 💬 WhatsApp templates with consent checks and STOP handling
+- 📈 Reply tracking, bounce handling, scheduled reports
+- 📊 Next.js dashboard with charts, costs and inbox
+
+`Next.js` `Python` `Cloud Run` `OpenAI` `Apps Script`
+
+[![Repo](https://img.shields.io/badge/repo-0d1117?style=for-the-badge&logo=github)](https://github.com/z9mb83/unified-communication-automation) [![Dashboard](https://img.shields.io/badge/dashboard_login-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://automation-dashboard-pi-ten.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔍 OCR
+Turns classified-ad images into clean contact lists and sends **DLT-compliant bulk SMS**. It runs a dry run by default, blocks sends outside 9 AM to 9 PM IST, and skips DND and invalid numbers.
+
+`Apps Script` `OpenAI Vision` `Google Drive` `Telinfy`
+
+[![Repo](https://img.shields.io/badge/repo-0d1117?style=for-the-badge&logo=github)](https://github.com/z9mb83/OCR)
+
+</td>
+</tr>
+</table>
+
+### 🧪 Other projects
 
 <div align="center">
 
 | Project | Stack | Links |
 |:--|:--|:--|
-| **music-bay**<br/><sub>Unified music dashboard for Spotify, YouTube and JioSaavn</sub> | TypeScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/music-bay) [![Live](https://img.shields.io/badge/live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://REPLACE-music-bay.vercel.app) |
-| **beat-pro**<br/><sub>Lyrics to beat foundation, with sequencer and MIDI export</sub> | JavaScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/beat-pro) [![Live](https://img.shields.io/badge/live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://REPLACE-beat-pro.vercel.app) |
-| **INDUS**<br/><sub>Add a one-line description</sub> | JavaScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/INDUS) [![Live](https://img.shields.io/badge/live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://REPLACE-indus.vercel.app) |
-| **VINCERA**<br/><sub>Add a one-line description</sub> | Python | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/VINCERA) |
-| **2048**<br/><sub>Classic sliding-tile puzzle</sub> | TypeScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/2048) [![Live](https://img.shields.io/badge/live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://REPLACE-2048.vercel.app) |
-| **unlikeall**<br/><sub>Bulk-unlike utility</sub> | Python | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/unlikeall) |
+| **music-bay** | TypeScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/music-bay) |
+| **beat-pro** | JavaScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/beat-pro) |
+| **INDUS** | JavaScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/INDUS) |
+| **VINCERA** | Python | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/VINCERA) |
+| **2048** | TypeScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/2048) |
+| **unlikeall** | Python | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/unlikeall) |
 
 </div>
 
