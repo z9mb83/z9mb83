@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff00ff&height=230&section=header&text=z9mb83&fontColor=00ffff&fontSize=84&fontAlignY=35&desc=BUILDING%20THINGS%20THAT%20FEEL%20GOOD%20TO%20USE&descAlignY=60&descSize=16&animation=glitch" width="100%" alt="cyberpunk header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff00ff&height=230&section=header&text=z9mb83&fontColor=00ffff&fontSize=84&fontAlignY=35&desc=BUILDING%20THINGS%20THAT%20FEEL%20GOOD%20TO%20USE&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="cyberpunk header" />
 
 <a href="https://github.com/z9mb83">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=620&lines=SYSTEM+ONLINE%3A+full-stack+developer;JavaScript+%7C+TypeScript+%7C+Python;Selenium+%7C+Web+Automation+%7C+AI;Bots%2C+tools+%26+clean+UI;DARK+MODE+IS+THE+ONLY+MODE" alt="typing" />
@@ -19,7 +19,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=z9mb83&color=ff00ff&style=flat-square&label=VIEWS)
 ![Followers](https://img.shields.io/github/followers/z9mb83?style=flat-square&color=00ffff&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/z9mb83&query=$.public_repos&label=REPOS&color=ff00ff&style=flat-square&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/REPOS-14-ff00ff?style=flat-square&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/z9mb83?style=flat-square&color=00ffff&labelColor=0d1117&label=STARS)
 
 </div>
