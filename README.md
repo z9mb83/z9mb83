@@ -13,8 +13,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:7c3aed,100:00ffff&height=3&section=header" width="70%" alt="neon line" />
 
-<sub><code>[ NEON_GRID ] :: [ ONLINE ] :: [ SELENIUM ] :: [ AI ] :: [ AUTOMATION ]</code></sub>
-
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=z9mb83&color=ff00ff&style=flat-square&label=VIEWS)
