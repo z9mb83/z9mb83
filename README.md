@@ -11,6 +11,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=620&lines=SYSTEM+ONLINE%3A+full-stack+developer;JavaScript+%7C+TypeScript+%7C+Python;Selenium+%7C+Web+Automation+%7C+AI;Bots%2C+tools+%26+clean+UI;DARK+MODE+IS+THE+ONLY+MODE" alt="typing" />
 </a>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:7c3aed,100:00ffff&height=3&section=header" width="70%" alt="neon line" />
+
+<sub><code>[ NEON_GRID ] :: [ ONLINE ] :: [ SELENIUM ] :: [ AI ] :: [ AUTOMATION ]</code></sub>
+
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=z9mb83&color=ff00ff&style=flat-square&label=VIEWS)
@@ -166,7 +170,7 @@ One Google Sheet drives cold email + WhatsApp for **five brands** (SB · 99M · 
 
 ### 🤖 unlikeall — Combined Selenium Automation
 
-Your central **web‑automation** repo: a **Flask API for remote browser control** plus a **generic framework for human‑like browser automation**.
+My central **web‑automation** repo: a **Flask API for remote browser control** plus a **generic framework for human‑like browser automation**.
 
 - 🌐 Flask API exposes Selenium browser sessions remotely
 - 🧠 Framework designed to mimic human interaction patterns (typing, scrolling, timing)
@@ -204,7 +208,7 @@ Turns classified‑ad images into clean contact lists and sends **DLT‑complian
 
 **Prompt‑Based AI Architectural Planning System** — natural‑language floor‑plan generation with constraint solving, graph‑based room adjacency and optional Vastu intelligence.
 
-`Python` · `AI Planning` · `Spatial Optimisation`
+`Next.js` · `TypeScript` · `AI Planning` · `Spatial Optimisation`
 
 [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/INDUS)
 
@@ -228,7 +232,7 @@ End‑to‑end **PyTorch U‑Net (ResNet‑18)** lane segmentation with video / 
 
 Compatibility‑first dating platform: **ID + selfie verification**, AI‑driven match scoring (NLP + behavioural), limited daily matches, privacy‑first architecture.
 
-`Python` · `AI Matching` · `Verification` · `Privacy`
+`Next.js` · `Python` · `AI Matching` · `Verification` · `Privacy`
 
 [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/VINCERA)
 
@@ -287,10 +291,19 @@ Fine‑tuned **Llama‑3.1‑8B** (Unsloth + QLoRA) that converts any story summ
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/z9mb83)
+```
+> ESTABLISHING_UPLINK...
+> CHANNELS_AVAILABLE: 4
+> STATUS: OPEN_TO_COLLABS
+```
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffff&labelColor=0d1117&color=00ffff)](https://www.linkedin.com/in/aryanp070704140505/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=ff00ff&labelColor=0d1117&color=ff00ff)](https://www.instagram.com/aryan.poonia.7.7.4/)
+[![Gmail](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffff&labelColor=0d1117&color=00ffff)](mailto:aryansingh070704@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ff00ff&labelColor=0d1117&color=ff00ff)](https://github.com/z9mb83)
 
 > **OPEN TO COLLABS, AUTOMATION WORK & FEEDBACK.**  
-> Best way to reach me: open an issue or start a discussion on any repo.
+> Best way to reach me: email, LinkedIn DM, or open an issue on any repo.
 
 </div>
 
