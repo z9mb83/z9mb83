@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7c3aed&height=220&section=header&text=z9mb83&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Building%20things%20that%20feel%20good%20to%20use&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/z9mb83">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Full-stack+developer;JavaScript+%7C+TypeScript+%7C+Python;Music%2C+games+and+clean+UI" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-stack+developer;JavaScript+%7C+TypeScript+%7C+Python;Music+tools%2C+games+and+clean+UI;Dark+mode+is+the+only+mode" alt="typing" />
 </a>
 
 <br/>
@@ -16,19 +16,65 @@
 
 ---
 
-### ⚡ About
+## ⚡ About me
 
-```js
-const z9mb83 = {
-  role: "Developer",
-  focus: ["Web apps", "Music tech", "Games", "Automation"],
-  languages: ["JavaScript", "TypeScript", "Python"],
-  currentlyBuilding: "Something sleek",
-  funFact: "Dark mode is the only mode",
-};
-```
+> Click any card to expand it.
 
-### 🛠 Stack
+<details open>
+<summary><b>👋 &nbsp;Who I am</b></summary>
+<br/>
+
+I'm a developer who likes turning ideas into small, polished tools. I build in JavaScript, TypeScript and Python, with a soft spot for music tech, browser games and automation.
+
+</details>
+
+<details>
+<summary><b>🎧 &nbsp;What I'm building</b></summary>
+<br/>
+
+- **music-bay**: a unified music dashboard that connects Spotify, YouTube and JioSaavn, with AI-organized playlists
+- **beat-pro**: a browser app that turns lyrics into a beat foundation, with a step sequencer and LMMS/MIDI export
+- **2048**: my take on the classic puzzle, in TypeScript
+- **unlikeall**: a Python utility to clean up likes in bulk
+
+</details>
+
+<details>
+<summary><b>🧰 &nbsp;How I work</b></summary>
+<br/>
+
+| | |
+|:--|:--|
+| **Languages** | JavaScript, TypeScript, Python |
+| **Style** | Ship small, iterate fast, keep the UI clean |
+| **Love** | Dark themes, keyboard shortcuts, tiny details |
+| **Always learning** | New frameworks, audio on the web, AI-assisted tooling |
+
+</details>
+
+<details>
+<summary><b>🎯 &nbsp;Currently</b></summary>
+<br/>
+
+- 🔭 Polishing my projects and getting them live on Vercel
+- 🌱 Exploring web audio and AI-powered features
+- 💬 Ask me about JavaScript, TypeScript or Python
+
+</details>
+
+<details>
+<summary><b>🎲 &nbsp;Random fact</b></summary>
+<br/>
+
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark" alt="quote" />
+
+<img src="https://img.shields.io/badge/refresh_the_page-for_a_new_quote-7c3aed?style=flat-square&labelColor=0d1117" alt="hint" />
+
+</details>
+
+<br/>
+
+## 🛠 Stack
 
 <div align="center">
 
@@ -36,27 +82,35 @@ const z9mb83 = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
-### 🚀 Featured projects
+## 🚀 Featured projects
+
+<!--
+  VERCEL LINKS: replace each REPLACE-... URL below with the real deployment URL
+  from your Vercel dashboard (Project > Domains). Delete the badge if a project
+  isn't deployed.
+-->
 
 <div align="center">
 
-| Project | Stack | |
+| Project | Stack | Links |
 |:--|:--|:--|
-| **[INDUS](https://github.com/z9mb83/INDUS)** | JavaScript | Add a one-line description |
-| **[VINCERA](https://github.com/z9mb83/VINCERA)** | Python | Add a one-line description |
-| **[music-bay](https://github.com/z9mb83/music-bay)** | TypeScript | Add a one-line description |
-| **[beat-pro](https://github.com/z9mb83/beat-pro)** | JavaScript | Add a one-line description |
-| **[2048](https://github.com/z9mb83/2048)** | TypeScript | Add a one-line description |
-| **[unlikeall](https://github.com/z9mb83/unlikeall)** | Python | Add a one-line description |
+| **music-bay**<br/><sub>Unified music dashboard for Spotify, YouTube and JioSaavn</sub> | TypeScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/music-bay) [![Live](https://img.shields.io/badge/live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://REPLACE-music-bay.vercel.app) |
+| **beat-pro**<br/><sub>Lyrics to beat foundation, with sequencer and MIDI export</sub> | JavaScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/beat-pro) [![Live](https://img.shields.io/badge/live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://REPLACE-beat-pro.vercel.app) |
+| **INDUS**<br/><sub>Add a one-line description</sub> | JavaScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/INDUS) [![Live](https://img.shields.io/badge/live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://REPLACE-indus.vercel.app) |
+| **VINCERA**<br/><sub>Add a one-line description</sub> | Python | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/VINCERA) |
+| **2048**<br/><sub>Classic sliding-tile puzzle</sub> | TypeScript | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/2048) [![Live](https://img.shields.io/badge/live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://REPLACE-2048.vercel.app) |
+| **unlikeall**<br/><sub>Bulk-unlike utility</sub> | Python | [![Repo](https://img.shields.io/badge/repo-0d1117?style=flat-square&logo=github)](https://github.com/z9mb83/unlikeall) |
 
 </div>
 
-### 📊 Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -67,7 +121,7 @@ const z9mb83 = {
 
 </div>
 
-### 📫 Connect
+## 📫 Connect
 
 <div align="center">
 
